@@ -373,6 +373,12 @@ a.button.is-normal.is-grey:active,
   font-style: italic;
 }
 
+.code_spec {
+  font-size: 1.0rem;
+  color: var(--text-light);
+  font-style: italic;
+}
+
 /* Section Titles */
 .title.is-3 {
   font-family: 'Inter', sans-serif !important;
